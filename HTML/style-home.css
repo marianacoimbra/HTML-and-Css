@@ -1,5 +1,4 @@
-body {
-}
+
 
 .principal {
     background: #cccccc;
@@ -13,8 +12,13 @@ body {
 .titulo-principal {
     padding-left: 20px;
     padding: 30px;
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
+    background-color: grey;
+    color: honeydew;
+    margin-bottom: 5px;
+    font-style: oblique;
+
 }
 
 p{
@@ -59,4 +63,8 @@ p{
         width: 40%;
         border-radius: 10px;
         cursor: pointer;
+    }
+
+    ul li {
+        margin-bottom: 10px ;
     }
